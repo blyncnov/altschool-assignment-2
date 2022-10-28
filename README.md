@@ -4,10 +4,7 @@
 
 ## Demo links
 
-Link to demo project [https://https://altschool-assignment-v2.vercel.app/](https://https://altschool-assignment-v2.vercel.app/).
-
-## Demo view
-
+Link to demo project [https://altschool-assignment-v2.vercel.app](https://altschool-assignment-v2.vercel.app).
 
 ## Built With
 
