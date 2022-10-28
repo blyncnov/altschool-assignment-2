@@ -174,7 +174,7 @@ h1 {
 
 .info-box p,
 .info-box-others p {
-  font-weight: 600 !important;
+  font-weight: 500 !important;
   line-height: 1.4;
   font-size: 14px;
   margin-bottom: 0.3em;
@@ -185,7 +185,7 @@ h1 {
 }
 
 .info-box-others p span {
-  opacity: 0.9;
+  opacity: 0.8;
   font-weight: 500 !important;
 }
 
