@@ -4,11 +4,10 @@
 
 ## Demo links
 
-Link to demo project [https://altschool-calculator-app.vercel.app](https://altschool-calculator-app.vercel.app).
+Link to demo project [https://https://altschool-assignment-v2.vercel.app/](https://https://altschool-assignment-v2.vercel.app/).
 
 ## Demo view
 
-![Screenshot 2022-10-07 at 15 10 42](https://user-images.githubusercontent.com/66668114/194573798-58d5e17e-3635-4d74-87e3-cb94484f9fb9.png)
 
 ## Built With
 
